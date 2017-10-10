@@ -1,0 +1,29 @@
+document {
+  box-sizing: border-box;
+}
+
+body {
+  background: url("../img/cork-board.jpg")
+}
+
+#pin {
+  height: 50px;
+  position: absolute;
+  margin-left: 205px;
+  margin-top: 205px;
+}
+
+#beach {
+  height: 360px;
+  width: 330px;
+  z-index: -1;
+  position: relative;
+  margin-left: 235px;
+  margin-top: 230px;
+}
+#polaroid {
+  height: 500px;
+  position: absolute;
+  margin-left: 175px;
+  margin-top: 175px;
+}
